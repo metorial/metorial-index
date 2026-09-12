@@ -6,11 +6,10 @@ repo:
   owner: SpaceFrontiers
 server:
   subdirectory: /
-  name: Space Frontiers MCP Server
-  description: Interact with Space Frontiers data sources seamlessly. Perform
-    keyword and semantic searches across various databases to enhance your
-    language model's capabilities. Leverage a simple API to access rich
-    space-related information effortlessly.
+  name: Machine Library by Space Frontiers
+  description: >-
+    Machine Library, the search and AI product by Space Frontiers, provides citable retrieval across papers, books, patents, Wikipedia, and public discussions.
+    Hosted MCP and setup documentation are available at https://machinelibrary.ai/mcp.
   flags:
     isOfficial: false
     isCommunity: true
