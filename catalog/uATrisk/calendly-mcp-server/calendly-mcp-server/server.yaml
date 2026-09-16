@@ -1,0 +1,14 @@
+identifier: uATrisk/calendly-mcp-server/calendly-mcp-server
+repo:
+  provider: github.com
+  url: https://github.com/uATrisk/calendly-mcp-server
+  name: calendly-mcp-server
+  owner: uATrisk
+server:
+  subdirectory: /
+  name: Calendly MCP Server
+  description: Connect to the Calendly API to list scheduled events, check available time slots for an event type, and generate single-use scheduling links.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: true

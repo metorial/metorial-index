@@ -139,3 +139,7 @@ index.db
 generated
 
 .DS_Store
+
+# Session tracking
+docs/
+problems/

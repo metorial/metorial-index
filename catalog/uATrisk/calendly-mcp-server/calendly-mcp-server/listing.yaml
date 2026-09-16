@@ -1,0 +1,5 @@
+description: Interact with Calendly to access your scheduled events and check availability for specific event types. Generate secure, single-use scheduling links to facilitate new bookings without modifying existing calendar configurations.
+skills:
+  - List scheduled events with filtering by user, organization, or status
+  - Check available time slots for specific event types within a date range
+  - Generate single-use scheduling links to prevent unauthorized re-use
