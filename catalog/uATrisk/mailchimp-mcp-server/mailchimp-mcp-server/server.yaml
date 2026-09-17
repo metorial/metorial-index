@@ -1,0 +1,14 @@
+identifier: uATrisk/mailchimp-mcp-server/mailchimp-mcp-server
+repo:
+  provider: github.com
+  url: https://github.com/uATrisk/mailchimp-mcp-server
+  name: mailchimp-mcp-server
+  owner: uATrisk
+server:
+  subdirectory: /
+  name: Mailchimp MCP Server
+  description: Connect to the Mailchimp Marketing API to manage audiences, subscribe and unsubscribe members, create and send campaigns, and retrieve campaign performance reports.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: true
