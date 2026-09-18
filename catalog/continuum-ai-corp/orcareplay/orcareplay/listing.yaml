@@ -1,0 +1,9 @@
+description: Agent run recorder and replayer that captures provider traffic — prompts, tool
+  calls, responses — into a local trace library and exposes it over MCP so a run can be replayed
+  or diffed offline, with no provider call and no API key.
+skills:
+  - List and show recorded agent runs
+  - Inspect the checkpoints and tool-call graph of a run
+  - Replay a recorded run offline without contacting the provider
+  - Diff two runs to find where they diverged
+  - Reproduce a failed agent run from its recording

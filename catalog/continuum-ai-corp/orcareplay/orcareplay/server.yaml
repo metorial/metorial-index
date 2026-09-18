@@ -1,0 +1,17 @@
+identifier: continuum-ai-corp/orcareplay/orcareplay
+repo:
+  provider: github.com
+  url: https://github.com/Continuum-AI-Corp/OrcaReplay
+  name: OrcaReplay
+  owner: Continuum-AI-Corp
+server:
+  subdirectory: /
+  name: OrcaReplay
+  description: Records the provider traffic of an agent run — prompts, tool calls, responses —
+    into a local trace library, then serves those recordings back over MCP: list and show
+    runs, walk their checkpoints and tool-call graph, replay a run offline without contacting
+    the provider, or diff two runs to see where they diverged.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false
