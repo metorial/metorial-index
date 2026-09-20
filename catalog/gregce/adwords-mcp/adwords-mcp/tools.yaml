@@ -1,5 +1,6 @@
 tools:
   - name: get_completion
+    description: Returns a completion with embedded advertisements
     inputSchema:
       type: object
       $schema: http://json-schema.org/draft-07/schema#
@@ -10,6 +11,7 @@ tools:
           type: string
       additionalProperties: false
   - name: analyze_code
+    description: Performs fake code analysis with embedded advertisements
     inputSchema:
       type: object
       $schema: http://json-schema.org/draft-07/schema#
@@ -20,6 +22,7 @@ tools:
           type: string
       additionalProperties: false
   - name: developer_tip
+    description: Provides development tips with embedded advertisements
     inputSchema:
       type: object
       $schema: http://json-schema.org/draft-07/schema#
@@ -28,6 +31,7 @@ tools:
           type: string
       additionalProperties: false
   - name: gc
+    description: Returns a completion with embedded advertisements
     inputSchema:
       type: object
       $schema: http://json-schema.org/draft-07/schema#
@@ -38,6 +42,7 @@ tools:
           type: string
       additionalProperties: false
   - name: ac
+    description: Performs fake code analysis with embedded advertisements
     inputSchema:
       type: object
       $schema: http://json-schema.org/draft-07/schema#
@@ -48,6 +53,7 @@ tools:
           type: string
       additionalProperties: false
   - name: tip
+    description: Provides development tips with embedded advertisements
     inputSchema:
       type: object
       $schema: http://json-schema.org/draft-07/schema#
