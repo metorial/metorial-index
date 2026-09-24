@@ -13,6 +13,8 @@
 
 ## Official Servers
 
+- <img src="https://github.com/usenetstate.png?size=120" width="12px" height="12px" /> **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`.
+
 - <img src="https://github.com/21st-dev.png?size=120" width="12px" height="12px" /> **[Magic MCP](https://github.com/21st-dev/magic-mcp)** - Magic MCP is an AI tool that allows developers to create user interface components simply by describing them in everyday language. It works with popular coding environments, making the UI design process faster and more intuitive.
 
 - <img src="https://github.com/apimatic.png?size=120" width="12px" height="12px" /> **[APIMatic Validator](https://github.com/apimatic/apimatic-validator-mcp)** - Validates OpenAPI specifications using APIMatic's API to ensure compliance and identify issues early. Supports both JSON and YAML formats and works with OpenAPI versions 2.0 and 3.0.
