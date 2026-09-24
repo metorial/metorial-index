@@ -1,0 +1,18 @@
+identifier: usenetstate/statsnet-mcp/statsnet-mcp
+repo:
+  provider: github.com
+  url: https://github.com/usenetstate/statsnet-mcp
+  name: statsnet-mcp
+  owner: usenetstate
+server:
+  subdirectory: /
+  name: Statsnet
+  description: >-
+    Background check any company in the world: registration, executives, courts and finances.
+
+    Remote: https://statsnet.co/mcp
+    Registry: io.github.usenetstate/statsnet
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: true
