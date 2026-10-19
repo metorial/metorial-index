@@ -1,0 +1,6 @@
+description: Live data-center site selection MCP with DCPI grid-power scores across 300+ markets. Remote endpoint https://dchub.cloud/mcp.
+skills:
+  - Score data-center markets by grid power (DCPI)
+  - Query power, grid, gas and fiber intelligence
+  - Compare sites and markets for siting
+  - Search capacity available to buy or lease

@@ -1,0 +1,19 @@
+identifier: azmartone67/dchub-mcp-server/dchub-mcp-server
+repo:
+  provider: github.com
+  url: https://github.com/azmartone67/dchub-mcp-server
+  name: dchub-mcp-server
+  owner: azmartone67
+server:
+  subdirectory: /
+  name: DC Hub
+  description: >-
+    Live data layer for data-center site selection. DCPI scores grid power
+    across 300+ markets daily. 94 MCP tools.
+
+    Remote: https://dchub.cloud/mcp
+    Registry: cloud.dchub/mcp-server
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: true
