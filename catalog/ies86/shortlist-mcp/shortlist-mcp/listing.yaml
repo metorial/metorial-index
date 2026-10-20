@@ -1,0 +1,10 @@
+description: The Shortlist Price Index MCP server gives AI agents current software
+  prices with a source. It returns entry prices, the cheapest providers and the
+  true 3-year cost including renewal prices, and it withholds any category whose
+  data is older than 35 days.
+skills:
+  - List the current software price categories
+  - Get the full price index for a category
+  - Find the cheapest providers in a category
+  - Compare the true 3-year cost including renewal prices
+  - Cite the comparison guide behind every figure

@@ -1,0 +1,22 @@
+identifier: ies86/shortlist-mcp/shortlist-mcp
+repo:
+  provider: github.com
+  url: https://github.com/ies86/shortlist-mcp
+  name: shortlist-mcp
+  owner: ies86
+server:
+  subdirectory: /
+  name: Shortlist Price Index
+  description: >-
+    Current software prices for AI agents: entry prices (lowest paid plan per
+    provider) and the true 3-year cost for web hosting, SEO tools, cloud backup,
+    antivirus, password managers and email marketing, in USD and EUR. Every
+    answer cites the comparison guide that publishes the figure. Open data under
+    CC BY 4.0, published by Orai Media.
+
+    Remote: https://shortlist-mcp.vercel.app/mcp
+    Registry: io.github.ies86/shortlist-price-index
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: true
