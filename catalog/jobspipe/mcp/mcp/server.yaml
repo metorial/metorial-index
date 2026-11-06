@@ -1,0 +1,16 @@
+identifier: jobspipe/mcp/mcp
+repo:
+  provider: github.com
+  url: https://github.com/jobspipe/mcp
+  name: mcp
+  owner: jobspipe
+server:
+  subdirectory: /
+  name: JobsPipe MCP Server
+  description: Search live job postings from 30+ ATS feeds and job boards in one
+    normalized schema. Hosted Model Context Protocol server for AI agents, with
+    filters for location, skills, seniority, remote and more.
+  flags:
+    isOfficial: true
+    isCommunity: false
+    isHostable: true
