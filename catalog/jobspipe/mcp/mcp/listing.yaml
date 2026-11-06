@@ -1,0 +1,10 @@
+description: Hosted MCP server for JobsPipe. AI agents search live, normalized
+  job postings from 30+ ATS feeds and job boards over streamable HTTP, with
+  company, tech-stack and layoff tools.
+skills:
+  - Search live job postings
+  - Filter by location, skills, seniority and remote
+  - List job sources and coverage
+  - Search hiring companies and company profiles
+  - Detect company tech stacks from job postings
+  - Search US WARN Act layoff notices
