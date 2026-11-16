@@ -9,7 +9,7 @@ server:
   name: DC Hub
   description: >-
     Live data layer for data-center site selection. DCPI scores grid power
-    across 300+ markets daily. 94 MCP tools.
+    across 300+ markets daily. 96 MCP tools.
 
     Remote: https://dchub.cloud/mcp
     Registry: cloud.dchub/mcp-server
