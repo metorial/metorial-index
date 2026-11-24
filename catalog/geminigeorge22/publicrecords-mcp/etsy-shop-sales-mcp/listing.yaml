@@ -1,0 +1,6 @@
+description: Hosted MCP server for Etsy Shop Daily Sales. Returns daily, 7-day and
+  28-day sales for Etsy shops, measured from each shop's public sales counter. Runs
+  on the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - Read an Etsy shop's public sales counter
+  - Compare daily, 7-day and 28-day shop sales

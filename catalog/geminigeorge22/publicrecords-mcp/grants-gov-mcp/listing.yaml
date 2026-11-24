@@ -1,0 +1,6 @@
+description: Hosted MCP server for Grants.gov. Returns open US federal grants, including
+  agency, deadline, eligibility and source link. Runs on the caller's own Apify account
+  (Apify OAuth or Bearer token).
+skills:
+  - Search open Grants.gov opportunities
+  - Read agency, deadline, eligibility and source link

@@ -1,0 +1,6 @@
+description: Hosted MCP server for USAspending awards. Returns US federal contract
+  and grant awards by agency, recipient, NAICS and period. Runs on the caller's own
+  Apify account (Apify OAuth or Bearer token).
+skills:
+  - Search USAspending contract and grant awards
+  - Filter awards by agency, recipient, NAICS and period

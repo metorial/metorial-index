@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/ashby-jobs-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/ashby-jobs-mcp
+  name: "Ashby Jobs MCP: New Postings Since Any Date"
+  description: New job postings from any Ashby job board since a date or window (24h,
+    7d, 30d), with full details.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

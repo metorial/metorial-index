@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/calibration-ledger-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/calibration-ledger-mcp
+  name: "Calibration Ledger MCP: Forecast Track Records (beta)"
+  description: "An organization's forecast track record (IMF, OECD, Fed, ECB SPF,\
+    \ listed issuers): errors and bias."
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

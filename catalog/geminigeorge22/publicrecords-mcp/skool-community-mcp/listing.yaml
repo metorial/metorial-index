@@ -1,0 +1,6 @@
+description: Hosted MCP server for Skool community search. Returns communities matching
+  a keyword, including members, price, rating, estimated revenue and daily growth.
+  Runs on the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - Search Skool communities by keyword
+  - Read member count, price, rating and growth

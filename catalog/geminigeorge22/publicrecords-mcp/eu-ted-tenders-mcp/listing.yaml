@@ -1,0 +1,6 @@
+description: Hosted MCP server for EU TED Tenders. Returns EU procurement notices
+  from TED (Tenders Electronic Daily), including buyer, CPV, value, deadline and source
+  link. Runs on the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - Search EU TED procurement notices
+  - Read buyer, CPV, value, deadline and source link

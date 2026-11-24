@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/uk-tenders-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/uk-tenders-mcp
+  name: "UK Tenders MCP: Find a Tender & Contracts Finder"
+  description: "UK government tenders from Find a Tender and Contracts Finder: buyer,\
+    \ value, deadline, source link."
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

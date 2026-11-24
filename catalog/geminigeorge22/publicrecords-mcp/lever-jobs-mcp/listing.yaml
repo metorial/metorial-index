@@ -1,0 +1,6 @@
+description: Hosted MCP server for Lever Jobs. Returns new job postings from any Lever
+  job board since a date or window (24h, 7d, 30d). Runs on the caller's own Apify
+  account (Apify OAuth or Bearer token).
+skills:
+  - List new Lever job postings since a date or window
+  - Read job posting details from a Lever board

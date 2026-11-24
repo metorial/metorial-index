@@ -1,0 +1,6 @@
+description: Hosted MCP server for SmartRecruiters Jobs. Returns new job postings
+  from any SmartRecruiters careers site since a date or window (24h, 7d, 30d). Runs
+  on the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - List new SmartRecruiters job postings since a date or window
+  - Read job posting details from a SmartRecruiters site

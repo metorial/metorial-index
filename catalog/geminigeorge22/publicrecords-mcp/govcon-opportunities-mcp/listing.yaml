@@ -1,0 +1,7 @@
+description: Hosted MCP server for US federal contracts. Returns new contract and
+  grant notices from SAM.gov and Grants.gov in one feed, with source links. Runs on
+  the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - List new SAM.gov contract notices
+  - List new Grants.gov grant notices
+  - Open source links for each notice

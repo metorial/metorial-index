@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/govcon-opportunities-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/govcon-opportunities-mcp
+  name: "Federal Contracts MCP: SAM.gov + Grants.gov"
+  description: New US federal contract and grant notices from SAM.gov and Grants.gov
+    in one feed, with links.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/etsy-shop-sales-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/etsy-shop-sales-mcp
+  name: Etsy Shop Daily Sales MCP
+  description: Daily, 7-day and 28-day sales for Etsy shops, measured from each shop's
+    public sales counter.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false
