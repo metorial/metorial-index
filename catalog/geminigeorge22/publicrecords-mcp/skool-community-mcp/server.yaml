@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/skool-community-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/skool-community-mcp
+  name: Skool Community Scraper
+  description: "Search Skool communities by keyword: members, price, rating, estimated\
+    \ revenue, and daily growth."
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

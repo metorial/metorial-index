@@ -1,0 +1,7 @@
+description: Hosted MCP server for Legistar city council meetings. Returns meetings,
+  agenda items and documents for any city on Legistar, with source links. Runs on
+  the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - Search city council meetings on Legistar
+  - Read agenda items and meeting documents
+  - Open source links for meetings and documents

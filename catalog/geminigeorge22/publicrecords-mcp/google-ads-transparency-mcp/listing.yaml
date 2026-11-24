@@ -1,0 +1,8 @@
+description: "Hosted MCP server for Google Ads Transparency. Returns Google ads a\
+  \ competitor runs from the public Ads Transparency Center: new, running or stopped\
+  \ ads with first and last shown dates. Runs on the caller's own Apify account (Apify\
+  \ OAuth or Bearer token)."
+skills:
+  - List a competitor's Google ads from the Ads Transparency Center
+  - Filter new, running and stopped ads
+  - Read first and last shown dates

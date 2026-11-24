@@ -1,0 +1,6 @@
+description: Hosted MCP server for UK Tenders. Returns UK government tenders from
+  Find a Tender and Contracts Finder, including buyer, value, deadline and source
+  link. Runs on the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - Search UK Find a Tender and Contracts Finder notices
+  - Read buyer, value, deadline and source link

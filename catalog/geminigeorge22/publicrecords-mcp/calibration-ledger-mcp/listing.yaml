@@ -1,0 +1,6 @@
+description: Hosted MCP server for Calibration Ledger (beta). Returns an organization's
+  forecast track record (IMF, OECD, Fed, ECB SPF, listed issuers), including errors
+  and bias. Runs on the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - Look up an organization's forecast track record
+  - Compare forecast errors and bias across issuers

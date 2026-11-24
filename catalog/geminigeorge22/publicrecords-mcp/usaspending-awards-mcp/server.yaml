@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/usaspending-awards-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/usaspending-awards-mcp
+  name: "USAspending Awards MCP: Federal Contract & Grant Awards"
+  description: US federal contract and grant awards from USAspending by agency, recipient,
+    NAICS and period.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

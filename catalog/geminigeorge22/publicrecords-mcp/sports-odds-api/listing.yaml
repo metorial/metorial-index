@@ -1,0 +1,7 @@
+description: Hosted MCP server for Sports Odds API. Returns live odds from 24 Kambi-powered
+  sportsbooks (BetRivers, Unibet, Paf and more), with every book's price and the best
+  price per outcome. Runs on the caller's own Apify account (Apify OAuth or Bearer
+  token).
+skills:
+  - Read live odds from 24 Kambi-powered sportsbooks
+  - Compare each book's price and the best price per outcome

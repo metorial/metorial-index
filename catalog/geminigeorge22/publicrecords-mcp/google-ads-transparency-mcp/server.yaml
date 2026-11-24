@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/google-ads-transparency-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/google-ads-transparency-mcp
+  name: "Google Ads Transparency MCP: Competitor Ads"
+  description: "Google ads a competitor runs, from the public Ads Transparency Center:\
+    \ new, running or stopped ads with first and last shown dates."
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

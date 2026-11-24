@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/sports-odds-api
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/sports-odds-api
+  name: Sports Odds API MCP (BetRivers, Unibet & 22 more books)
+  description: "Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf\
+    \ and more): every book's price and the best price per outcome."
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

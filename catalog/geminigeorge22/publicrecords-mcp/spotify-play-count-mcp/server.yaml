@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/spotify-play-count-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/spotify-play-count-mcp
+  name: "Spotify Play Count MCP: Plays & Monthly Listeners"
+  description: Play counts for every track on a Spotify track, album, artist or playlist
+    link, plus artist monthly listeners and followers.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

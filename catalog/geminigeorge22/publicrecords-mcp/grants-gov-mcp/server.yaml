@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/grants-gov-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/grants-gov-mcp
+  name: "Grants.gov MCP: Open Federal Grants"
+  description: "Open US federal grants from Grants.gov: agency, deadline, eligibility\
+    \ and source link."
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

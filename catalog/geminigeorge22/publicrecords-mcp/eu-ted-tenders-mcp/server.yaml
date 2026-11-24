@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/eu-ted-tenders-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/eu-ted-tenders-mcp
+  name: "EU TED Tenders MCP: Daily Procurement Notices"
+  description: "EU procurement notices from TED (Tenders Electronic Daily): buyer,\
+    \ CPV, value, deadline, link."
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

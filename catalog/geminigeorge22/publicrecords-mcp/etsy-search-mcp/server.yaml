@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/etsy-search-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/etsy-search-mcp
+  name: "Etsy Search MCP: Listings, Prices & Best Sellers"
+  description: "Etsy search results by keyword or category: price, rating, reviews,\
+    \ Bestseller badge, ad flag, rank."
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

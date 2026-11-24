@@ -1,0 +1,7 @@
+description: Hosted MCP server for Etsy Search. Returns Etsy search results by keyword
+  or category, including price, rating, reviews, Bestseller badge, ad flag and rank.
+  Runs on the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - Search Etsy listings by keyword or category
+  - Read listing price, rating, reviews and rank
+  - Identify Bestseller badges and ad listings

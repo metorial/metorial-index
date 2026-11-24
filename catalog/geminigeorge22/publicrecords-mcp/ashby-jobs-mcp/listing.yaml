@@ -1,0 +1,6 @@
+description: Hosted MCP server for Ashby Jobs. Returns new job postings from any Ashby
+  job board since a date or window (24h, 7d, 30d), with full details. Runs on the
+  caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - List new Ashby job postings since a date or window
+  - Read full job posting details from an Ashby board
