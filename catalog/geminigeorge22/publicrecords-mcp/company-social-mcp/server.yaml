@@ -1,0 +1,15 @@
+identifier: geminigeorge22/publicrecords-mcp/company-social-mcp
+repo:
+  provider: github.com
+  url: https://github.com/GeminiGeorge22/publicrecords-mcp
+  name: publicrecords-mcp
+  owner: GeminiGeorge22
+server:
+  subdirectory: /servers/company-social-mcp
+  name: "Company Social MCP: Website to LinkedIn & Social Links"
+  description: Company domain, name or Google Maps place ID to its LinkedIn, X, YouTube,
+    Instagram and Facebook links, each with a confidence score and evidence.
+  flags:
+    isOfficial: false
+    isCommunity: true
+    isHostable: false

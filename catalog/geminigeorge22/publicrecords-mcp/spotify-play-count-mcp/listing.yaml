@@ -1,0 +1,6 @@
+description: Hosted MCP server for Spotify Play Count. Returns play counts for every
+  track on a Spotify track, album, artist or playlist link, plus artist monthly listeners
+  and followers. Runs on the caller's own Apify account (Apify OAuth or Bearer token).
+skills:
+  - Read Spotify play counts for a track, album, artist or playlist
+  - Read artist monthly listeners and followers

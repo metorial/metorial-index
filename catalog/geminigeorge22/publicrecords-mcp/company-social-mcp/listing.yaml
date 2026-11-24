@@ -1,0 +1,7 @@
+description: Hosted MCP server for Company Social. Maps a company domain, name or
+  Google Maps place ID to its LinkedIn, X, YouTube, Instagram and Facebook links,
+  each with a confidence score and evidence. Runs on the caller's own Apify account
+  (Apify OAuth or Bearer token).
+skills:
+  - Find a company's LinkedIn, X, YouTube, Instagram and Facebook links
+  - Score each social link with evidence
