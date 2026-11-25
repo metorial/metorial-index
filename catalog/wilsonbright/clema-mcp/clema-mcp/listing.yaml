@@ -1,0 +1,15 @@
+description: Clema is an AI analyst for institutional research (IR) and
+  institutional effectiveness teams in U.S. higher education. Its hosted MCP
+  server lets any MCP client work the IR data request queue and query the
+  public IPEDS and College Scorecard datasets with read-only SQL. OAuth sign-in
+  in the browser, nothing to install. Requires a paid Clema plan; a free trial
+  is available.
+skills:
+  - View account details
+  - List and read IR data request tickets
+  - Create data request tickets
+  - Update ticket settings
+  - List IPEDS and College Scorecard tables
+  - Search the data dictionary
+  - Search institutions
+  - Run read-only SQL queries on IPEDS and College Scorecard data

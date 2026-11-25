@@ -1,0 +1,16 @@
+identifier: wilsonbright/clema-mcp/clema-mcp
+repo:
+  provider: github.com
+  url: https://github.com/wilsonbright/clema-mcp
+  name: clema-mcp
+  owner: wilsonbright
+server:
+  subdirectory: /
+  name: Clema
+  description: Higher-ed IR data requests plus IPEDS and College Scorecard SQL,
+    from any AI client. Official hosted remote MCP server from Clema at
+    https://mcp.clema.ai/mcp (streamable HTTP, OAuth 2.1 sign-in).
+  flags:
+    isOfficial: true
+    isCommunity: false
+    isHostable: false
